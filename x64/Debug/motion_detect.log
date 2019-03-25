@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\chen_cl\documents\visual studio 2015\projects\motion_detect\motion_detect\processimg.h(76): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\chen_cl\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(232): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chen_cl\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(239): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\chen_cl\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(415): warning C4805: “==”: 在操作中将类型“const unsigned char”与类型“bool”混合不安全
+c:\users\chen_cl\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(617): warning C4805: “==”: 在操作中将类型“const unsigned char”与类型“bool”混合不安全
+  motion_detect.vcxproj -> C:\Users\CHEN_CL\Documents\Visual Studio 2015\Projects\motion_detect\x64\Debug\motion_detect.exe
+  motion_detect.vcxproj -> C:\Users\CHEN_CL\Documents\Visual Studio 2015\Projects\motion_detect\x64\Debug\motion_detect.pdb (Full PDB)

@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\opencv_3.2.0\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv_3.2.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv_3.2.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv_3.2.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv_3.2.0\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\processimg.h(76): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(259): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(350): warning C4805: “==”: 在操作中将类型“const unsigned char”与类型“bool”混合不安全
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(546): warning C4805: “==”: 在操作中将类型“const unsigned char”与类型“bool”混合不安全
+d:\documents\visual studio 2015\projects\motion_detect\motion_detect\main.cpp(581): warning C4018: “<”: 有符号/无符号不匹配
+  motion_detect.vcxproj -> d:\documents\visual studio 2015\Projects\motion_detect\Debug\motion_detect.exe
+  motion_detect.vcxproj -> d:\documents\visual studio 2015\Projects\motion_detect\Debug\motion_detect.pdb (Full PDB)
